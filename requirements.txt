@@ -6,4 +6,9 @@ shap
 lime
 fairlearn==0.10.0
 matplotlib
+joblib
+pathlib
+ipython
 pytest
+dvc
+dvc[gdrive]
