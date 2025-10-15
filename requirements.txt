@@ -6,3 +6,4 @@ shap
 lime
 fairlearn==0.10.0
 matplotlib
+pytest
